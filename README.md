@@ -2,6 +2,8 @@
 
 Python packages, variables, methods and functions with their arguments autocompletion in [Atom](http://atom.io) powered by [Jedi](https://jedi.readthedocs.io/en/latest/).
 
+Require Jedi to be installed on the system: `pip install jedi`
+
 **autocomplete-python-jedi** is a streamlined fork of **autocomplete-python** with good intentions to resolve these [issues](https://github.com/autocomplete-python/autocomplete-python/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20refactor%20OR%20owner%20OR%20telemetry%20).
 
 See [releases](https://github.com/brennv/autocomplete-python-jedi/releases) for release notes.
